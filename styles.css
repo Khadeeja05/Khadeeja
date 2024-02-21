@@ -1,0 +1,15 @@
+#one{
+    text-align: center;
+    color: green;
+    font-style: oblique;
+}
+#two{
+    text-align: center;
+    color: darkolivegreen;
+}
+li{
+    list-style-type: square;
+}
+#three{
+    color: olive;
+}
